@@ -8,4 +8,4 @@ tags:
 ---
 S﻿Ono Matteo
 
-![](/static/img/monaco.jpg)
+![]()
