@@ -7,3 +7,5 @@ tags:
   - Tags
 ---
 S﻿Ono Matteo
+
+![](/static/img/monaco.jpg)
